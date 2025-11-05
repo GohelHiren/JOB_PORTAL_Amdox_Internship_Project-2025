@@ -62,6 +62,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 - Member 2: **MANISH** - Frontend Developer
 - Member 3: **KASIM SIDKOT** - Backend Developer
 - Member 4: **DEVI** - Frontend Developer
+- Member 5:**Rathish**-Frontend Developer
 
 
 ## License
