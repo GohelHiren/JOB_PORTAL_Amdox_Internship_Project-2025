@@ -59,7 +59,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Team Members
 - Member 1: **HIREN GOHEL** - Full Stack Developer
-- Member 2: **MANISH** - Frontend Developer
+- Member 2: **MANISH** - Full Stack Developer
 - Member 3: **KASIM SIDKOT** - Backend Developer
 - Member 4: **DEVI** - Frontend Developer
 - Member 5:**Rathish**-Frontend Developer
